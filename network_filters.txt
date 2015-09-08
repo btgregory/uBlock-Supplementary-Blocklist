@@ -8,13 +8,18 @@
 !
 ! Unbreak Google Play
 play.google.com ajax.googleapis.com * allow
+@@||ajax.googleapis.com^$domain=play.google.com
 !
 ! Unbreak search.pch.com
 search.pch.com inspsearchapi.com * allow
+@@||inspsearchapi.com^$domain=search.pch.com
 search.pch.com ox-d.mods.pch.com * allow
+@@||ox-d.mods.pch.com^$domain=search.pch.com
 !
 ! Blacklist TouchArcade Tracking
 toucharcade.com doubleclick.net * block
+||doubleclick.net^$domain=toucharcade.com
 !
 ! Blacklist Speedtest.net Ads
 speedtest.net ads.ookla.com * block
+||ads.ookla.com^$domain=speedtest.net
