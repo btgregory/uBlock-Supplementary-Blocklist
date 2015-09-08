@@ -11,13 +11,8 @@ toucharcade.com##a[href="http://toucharcade.com/sdlink/"]
 toucharcade.com###skinTopAd[href="/sdlink3/"]
 toucharcade.com###skinLeftAd[href="/sdlink2/"]
 toucharcade.com###skinRightAd[href="/sdlink/"]
-! Below TouchArcade rules are not working***
-toucharcade.com##body{style="background-image: url('*^*')"}
-||toucharcade.com/wp-content/uploads/skins/*/^*$image,collapse
 ||cdn.toucharcade.com/wp-content/uploads/skins/*/main_skin.jpg
 ||cdn.toucharcade.com/wp-content/uploads/skins/*/ipad_skin.jpg
-toucharcade.com##img[src="toucharcade.com/wp-content/uploads/skins/*/^*_skin.jpg"]
-toucharcade.com##img[src="toucharcade.com/wp-content/uploads/themes/*/^*_skin.jpg"]
 !
 ! Blacklist TouchArcade Sponsors
 toucharcade.com###content > div:nth-of-type(1)
