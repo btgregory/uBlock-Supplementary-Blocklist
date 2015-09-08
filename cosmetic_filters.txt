@@ -1,18 +1,11 @@
 [Adblock Plus 2.0]
 !
-! Updated: 8 September 2015 (12:00 AM)
-!
-! Expires: 5 days
-!
-! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
-!
 ! Title: uBlock Supplementary Blocklist - Cosmetic Filters
-!
+! Updated: 8 September 2015
+! Expires: 5 days
+! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
 !
-
-
-
 ! Blacklist TouchArcade Background Ads
 toucharcade.com##a[href="http://toucharcade.com/sdlink/"]
 toucharcade.com###skinTopAd[href="/sdlink3/"]
@@ -25,15 +18,15 @@ toucharcade.com##body{style="background-image: url('*^*')"}
 ||cdn.toucharcade.com/wp-content/uploads/skins/*/ipad_skin.jpg
 toucharcade.com##img[src="toucharcade.com/wp-content/uploads/skins/*/^*_skin.jpg"]
 toucharcade.com##img[src="toucharcade.com/wp-content/uploads/themes/*/^*_skin.jpg"]
-
+!
 ! Blacklist Slickdeals Rate Us Tab
 slickdeals.net###nps_contain
 slickdeals.net###nps_slider
 ||static.slickdealscdn.com/images/npsTab.png
-
+!
 ! Whitelist Slickdeals Featured Deals Section (Includes Giveaways Promo)
 slickdeals.net#@#featureDealsAndCoupons
-
+!
 ! Blacklist Facebook Games Ads
 www.facebook.com###u_ps_0_b_2
 www.facebook.com###pagelet_canvas_nav_content
@@ -43,6 +36,7 @@ www.facebook.com###u_ps_0_a_3
 www.facebook.com###pagelet_games_rhc > ._3-94 > div > a[href="https://www.facebook.com/games/"] > .uiSideHeader.pbs.mbm.uiHeaderTopBorder.uiHeader
 www.facebook.com###apps_gripper
 www.facebook.com###pagelet_games_rhc
-
+!
 ! Blacklist Facebook Feedback
 www.facebook.com###pagelet_ego_pane > .egoOrganicColumn._1snm._5qrt._y92.pagelet.ego_column:nth-of-type(1) > .ego_section
+!

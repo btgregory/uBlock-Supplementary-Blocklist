@@ -5,9 +5,9 @@
 This supplementary blocklist was created with the following blocklists enabled:
 
 * uBlock Filters
-  * (Included)
+  * https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/assets/ublock/filters.txt
 * uBlock Filters - Privacy
-  * (Included)
+  * https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/assets/ublock/privacy.txt
 * uBlock Origin Filters
   * https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/filters.txt
 * uBlock Origin Filters - Badware
@@ -34,33 +34,33 @@ This supplementary blocklist was created with the following blocklists enabled:
   * https://raw.githubusercontent.com/Hubird-au/Adversity/master/Antisocial.txt
 * Adversity Filters - Extreme Measures
   * https://raw.githubusercontent.com/Hubird-au/Adversity/master/Extreme-Measures.txt
-* Anti-Adblock Killer | Reek
-  * TBD
+* Anti-Adblock Killer | Reek (NOTE: Requires Additional Setup)
+  * https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 * EasyList
-  * TBD
+  * https://easylist-downloads.adblockplus.org/easylist.txt
 * Peter Lowe's Ad Server List
-  * TBD
+  * http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
 * EasyPrivacy
-  * TBD
+  * https://easylist-downloads.adblockplus.org/easyprivacy.txt
 * Fanboy's Enhanced Tracking List
-  * TBD
+  * https://www.fanboy.co.nz/enhancedstats.txt
 * Malware Domain List
-  * TBD
+  * http://www.malwaredomainlist.com/hostslist/hosts.txt
 * Malware Domains
-  * TBD
+  * http://mirror1.malwaredomains.com/files/justdomains
 * Malware Domains (Long-Lived)
-  * TBD
+  * http://mirror1.malwaredomains.com/files/immortal_domains.txt
 * Spam404
-  * TBD
+  * http://spam404bl.com/spam404scamlist.txt
 * Anti-Third Party Social
-  * TBD
+  * https://www.fanboy.co.nz/fanboy-antifacebook.txt
 * Fanboy's Annoyance List
-  * TBD
+  * https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
 * Fanboy's Social Blocking List
-  * TBD
+  * https://easylist-downloads.adblockplus.org/fanboy-social.txt
 * Dan Pollock's Hosts File
-  * TBD
+  * http://someonewhocares.org/hosts/hosts
 * hpHosts's Ad and Tracking Servers
-  * TBD
+  * http://hosts-file.net/ad_servers.txt
 * MVPS Hosts
-  * TBD
+  * http://winhelp2002.mvps.org/hosts.txt

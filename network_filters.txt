@@ -1,22 +1,15 @@
 [Adblock Plus 2.0]
 !
-! Updated: 8 September 2015 (12:00 AM)
-!
-! Expires: 5 days
-!
-! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
-!
 ! Title: uBlock Supplementary Blocklist - Network Filters
-!
+! Updated: 8 September 2015
+! Expires: 5 days
+! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
 !
-
-
-
 ! Unbreak Google Play
 play.google.com ajax.googleapis.com * allow
-
+!
 ! Unbreak search.pch.com
 search.pch.com inspsearchapi.com * allow
 search.pch.com ox-d.mods.pch.com * allow
-
+!
