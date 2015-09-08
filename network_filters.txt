@@ -13,3 +13,5 @@ play.google.com ajax.googleapis.com * allow
 search.pch.com inspsearchapi.com * allow
 search.pch.com ox-d.mods.pch.com * allow
 !
+! Blacklist TouchArcade Tracking
+toucharcade.com doubleclick.net * block

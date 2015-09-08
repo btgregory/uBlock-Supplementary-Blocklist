@@ -25,6 +25,7 @@ toucharcade.com###sidebar > .side-block:nth-of-type(1) > h2
 toucharcade.com###sidebar > .side-block:nth-of-type(1) > h2 > span
 toucharcade.com###sidebar > .side-block:nth-of-type(2) > h2
 toucharcade.com###sidebar > .side-block:nth-of-type(2) > div
+forums.toucharcade.com###page > div:nth-of-type(1)
 !
 ! Blacklist Slickdeals Rate Us Tab
 slickdeals.net###nps_contain
