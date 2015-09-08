@@ -1,9 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 
 !
 ! Updated: 7 September 2015 (04:38:05 PM)
 !
-! This list expires after 5 days
+! Expires: 5 days
 !
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 !
