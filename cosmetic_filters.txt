@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 !
-! Updated: 7 September 2015 (04:38:05 PM)
+! Updated: 8 September 2015 (12:00 AM)
 !
 ! Expires: 5 days
 !
