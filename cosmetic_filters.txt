@@ -19,6 +19,10 @@ toucharcade.com##body{style="background-image: url('*^*')"}
 toucharcade.com##img[src="toucharcade.com/wp-content/uploads/skins/*/^*_skin.jpg"]
 toucharcade.com##img[src="toucharcade.com/wp-content/uploads/themes/*/^*_skin.jpg"]
 !
+! Blacklist TouchArcade Sidebar Sponsors
+toucharcade.com###sidebar > .side-block:nth-of-type(1) > h2 > span
+toucharcade.com###sidebar > .side-block:nth-of-type(2) > div
+!
 ! Blacklist Slickdeals Rate Us Tab
 slickdeals.net###nps_contain
 slickdeals.net###nps_slider
