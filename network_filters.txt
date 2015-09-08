@@ -16,3 +16,8 @@
 
 ! Unbreak Google Play
 play.google.com ajax.googleapis.com * allow
+
+! Unbreak search.pch.com
+search.pch.com inspsearchapi.com * allow
+search.pch.com ox-d.mods.pch.com * allow
+
