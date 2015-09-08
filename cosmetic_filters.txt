@@ -19,7 +19,9 @@ toucharcade.com##body{style="background-image: url('*^*')"}
 toucharcade.com##img[src="toucharcade.com/wp-content/uploads/skins/*/^*_skin.jpg"]
 toucharcade.com##img[src="toucharcade.com/wp-content/uploads/themes/*/^*_skin.jpg"]
 !
-! Blacklist TouchArcade Sidebar Sponsors
+! Blacklist TouchArcade Sponsors
+toucharcade.com###content > div:nth-of-type(1)
+toucharcade.com###sidebar > .side-block:nth-of-type(1) > h2
 toucharcade.com###sidebar > .side-block:nth-of-type(1) > h2 > span
 toucharcade.com###sidebar > .side-block:nth-of-type(2) > div
 !
