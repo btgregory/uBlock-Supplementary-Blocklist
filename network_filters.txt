@@ -15,3 +15,6 @@ search.pch.com ox-d.mods.pch.com * allow
 !
 ! Blacklist TouchArcade Tracking
 toucharcade.com doubleclick.net * block
+!
+! Blacklist Speedtest.net Ads
+speedtest.net ads.ookla.com * block

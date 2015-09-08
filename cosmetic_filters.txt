@@ -43,3 +43,5 @@ www.facebook.com###pagelet_games_rhc
 ! Blacklist Facebook Feedback
 www.facebook.com###pagelet_ego_pane > .egoOrganicColumn._1snm._5qrt._y92.pagelet.ego_column:nth-of-type(1) > .ego_section
 !
+! Blacklist Speedtest.net Ads
+speedtest.net###home-content > .ad-stack.test-area-wrapper > .lower-cta > .aos-btn-home > .aos-link > .btn-aos[href="/partner-with-ookla"]
