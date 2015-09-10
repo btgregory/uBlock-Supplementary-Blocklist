@@ -18,6 +18,11 @@ pch.com ox-d.mods.pch.com * allow
 pch.com cdn-imageconv.pchassets.com * allow
 @@||cdn-imageconv.pchassets.com^$domain=pch.com
 !
+!
+! Unbreak TouchArcade App Details
+toucharcade.com toucharcade.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css * allow
+@@||toucharcade.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css^$domain=toucharcade.com
+!
 ! Blacklist TouchArcade Tracking
 toucharcade.com doubleclick.net * block
 ||doubleclick.net^$domain=toucharcade.com
