@@ -24,7 +24,9 @@ toucharcade.com###contentContainer > div:nth-of-type(1)
 forums.toucharcade.com###page > div:nth-of-type(1)
 !
 ! Whitelist TouchArcade App Details
-toucharcade.com#@#contentContainer
+toucharcade.com#@#title-heading
+toucharcade.com#@#content > .app-detail
+toucharcade.com#@#content > .app-details
 !
 ! Blacklist Slickdeals Rate Us Tab
 slickdeals.net###nps_contain
