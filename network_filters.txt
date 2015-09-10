@@ -10,11 +10,11 @@
 play.google.com ajax.googleapis.com * allow
 @@||ajax.googleapis.com^$domain=play.google.com
 !
-! Unbreak search.pch.com
-search.pch.com inspsearchapi.com * allow
-@@||inspsearchapi.com^$domain=search.pch.com
-search.pch.com ox-d.mods.pch.com * allow
-@@||ox-d.mods.pch.com^$domain=search.pch.com
+! Unbreak PCH
+pch.com inspsearchapi.com * allow
+@@||inspsearchapi.com^$domain=pch.com
+pch.com ox-d.mods.pch.com * allow
+@@||ox-d.mods.pch.com^$domain=pch.com
 !
 ! Blacklist TouchArcade Tracking
 toucharcade.com doubleclick.net * block
