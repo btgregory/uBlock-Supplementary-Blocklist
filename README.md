@@ -1,6 +1,6 @@
 # uBlock-Supplementary-Blocklist
 
-
+**NOTE:** *This project is currently not recommended for public consumption in its current state!*
 
 This supplementary blocklist was created with the following blocklists enabled:
 
