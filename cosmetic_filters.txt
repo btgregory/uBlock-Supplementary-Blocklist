@@ -1,10 +1,13 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Cosmetic Filters
-! Updated: 8 September 2015
+! Updated: 18 September 2015
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
+!
+! Unbreak DShield.org Filter “Site”
+*#@#Site
 !
 ! Blacklist TouchArcade Background Ads
 toucharcade.com##a[href="http://toucharcade.com/sdlink/"]
