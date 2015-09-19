@@ -6,7 +6,7 @@
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
 !
-! Unbreak DShield.org Filter “Site”
+! Unbreak DShield.org Filter Non-Entry: “Site”
 *#@#Site
 !
 ! Blacklist TouchArcade Background Ads
