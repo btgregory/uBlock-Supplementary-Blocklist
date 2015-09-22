@@ -9,6 +9,10 @@
 ! Unbreak DShield.org Filter Non-Entry: “Site”
 @@Site
 !
+! Unbreak Google Drive
+drive.google.com play.google.com * allow
+@@||play.google.com^$domain=drive.google.com
+!
 ! Unbreak Google Play
 play.google.com ajax.googleapis.com * allow
 @@||ajax.googleapis.com^$domain=play.google.com
