@@ -18,12 +18,12 @@ toucharcade.com###skinRightAd[href="/sdlink/"]
 ||cdn.toucharcade.com/wp-content/uploads/skins/*/ipad_skin.jpg
 !
 ! Blacklist TouchArcade Sponsors
-toucharcade.com###content > div:nth-of-type(1)
+! toucharcade.com###content > div:nth-of-type(1)
 toucharcade.com###sidebar > .side-block:nth-of-type(1) > h2
 toucharcade.com###sidebar > .side-block:nth-of-type(1) > h2 > span
 toucharcade.com###sidebar > .side-block:nth-of-type(2) > h2
 toucharcade.com###sidebar > .side-block:nth-of-type(2) > div
-toucharcade.com###contentContainer > div:nth-of-type(1)
+! toucharcade.com###contentContainer > div:nth-of-type(1)
 forums.toucharcade.com###page > div:nth-of-type(1)
 !
 ! Whitelist TouchArcade App Details
