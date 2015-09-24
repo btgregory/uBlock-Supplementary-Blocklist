@@ -21,7 +21,6 @@ toucharcade.com###skinRightAd[href="/sdlink/"]
 ! toucharcade.com###content > div:nth-of-type(1)
 ! toucharcade.com###contentContainer > div:nth-of-type(1)
 ! DEBUG: Above breaks App Details of any game listing on toucharcade.com/games/*
-toucharcade.com##div[padding=“5px”][margin-top=“0px”][background-color=“#393949”][text-align=“center”][color=“#fff”][width=“100%”][font-weight=“bold”]
 toucharcade.com###sidebar > .side-block:nth-of-type(1) > h2
 toucharcade.com###sidebar > .side-block:nth-of-type(1) > h2 > span
 toucharcade.com###sidebar > .side-block:nth-of-type(2) > h2
