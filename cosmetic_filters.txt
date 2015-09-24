@@ -19,20 +19,14 @@ toucharcade.com###skinRightAd[href="/sdlink/"]
 !
 ! Blacklist TouchArcade Sponsors
 ! toucharcade.com###content > div:nth-of-type(1)
+! toucharcade.com###contentContainer > div:nth-of-type(1)
+! DEBUG: Above breaks App Details of any game listing on toucharcade.com/games/*
+toucharcade.com##div[style="padding:5px; margin-top:0px;background-color:#393949;text-align:center;color:#fff;width:100%; font-weight:bold;”]
 toucharcade.com###sidebar > .side-block:nth-of-type(1) > h2
 toucharcade.com###sidebar > .side-block:nth-of-type(1) > h2 > span
 toucharcade.com###sidebar > .side-block:nth-of-type(2) > h2
 toucharcade.com###sidebar > .side-block:nth-of-type(2) > div
-! toucharcade.com###contentContainer > div:nth-of-type(1)
 forums.toucharcade.com###page > div:nth-of-type(1)
-!
-! Whitelist TouchArcade App Details
-toucharcade.com#@#title-heading
-toucharcade.com#@#contentContainer > .app-detail
-toucharcade.com#@#.app-detail
-toucharcade.com#@#content > .app-details
-toucharcade.com#@#.app-details
-@@||toucharcade.com^$domain=toucharcade.com/games/
 !
 ! Blacklist Slickdeals Rate Us Tab
 slickdeals.net###nps_contain
