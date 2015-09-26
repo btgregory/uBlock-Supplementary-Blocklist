@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Network Filters
-! Updated: 24 September 2015
+! Updated: 26 September 2015
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -36,3 +36,7 @@ toucharcade.com doubleclick.net * block
 ! Blacklist Speedtest.net Ads
 speedtest.net ads.ookla.com * block
 ||ads.ookla.com^$domain=speedtest.net
+!
+! Unbreak Fortune
+fortune.com tiads.fortune.com * allow
+@@||tiads.fortune.com/ads/tgx.js^$domain=fortune.com
