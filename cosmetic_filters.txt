@@ -40,33 +40,40 @@ slickdeals.net#@#featureDealsAndCoupons
 ! NOTE: Facebook may occasionally show up blank without this rule
 !
 ! Blacklist Facebook Ads
-www.facebook.com###pagelet_ego_pane
-www.facebook.com###pagelet_ego_pane > ._1snm._5qrt._y92.pagelet.ego_column
-www.facebook.com###pagelet_ego_pane > ._1snm._5qrt._y92.pagelet.ego_column > .ego_section
-www.facebook.com###pagelet_ego_pane > ._1snm._5qrt._y92.pagelet.ego_column > .ego_section > .ego_unit_container
-www.facebook.com###pagelet_ego_pane > ._1snm._5qrt._y92.pagelet.ego_column > .ego_section > .ego_unit_container > .ego_unit
-www.facebook.com###rhc_col > ._4-u8._3-96._4-u2:nth-of-type(*) > ._2pi9._4-u3
+||facebook.com/ads^
+facebook.com###pagelet_ego_pane
+facebook.com###pagelet_ego_pane > ._1snm._5qrt._y92.pagelet.ego_column
+facebook.com###pagelet_ego_pane > ._1snm._5qrt._y92.pagelet.ego_column > .ego_section
+facebook.com###pagelet_ego_pane > ._1snm._5qrt._y92.pagelet.ego_column > .ego_section > .ego_unit_container
+facebook.com###pagelet_ego_pane > ._1snm._5qrt._y92.pagelet.ego_column > .ego_section > .ego_unit_container > .ego_unit
+facebook.com###rhc_col > ._4-u8._3-96._4-u2:nth-of-type(*) > ._2pi9._4-u3
+facebook.com##.fbTimelineSideAds
+facebook.com##.fbPhotoAdsCol
+facebook.com##.fbAdUnit
+facebook.com##.-cx-PUBLIC-fbAdUnit__root
+facebook.com##.-cx-PRIVATE-fbAdUnit__root
+facebook.com###adsCategoryTitleLink
 !
 ! Blacklist Facebook Games Ads
-www.facebook.com###u_ps_0_b_2
-www.facebook.com###pagelet_canvas_nav_content
-www.facebook.com###u_ps_0_8_0
-www.facebook.com###u_ps_0_a_2
-www.facebook.com###u_ps_0_a_3
-www.facebook.com###pagelet_games_rhc > ._3-94 > div > a[href="https://www.facebook.com/games/"] > .uiSideHeader.pbs.mbm.uiHeaderTopBorder.uiHeader
-www.facebook.com###apps_gripper
-www.facebook.com###pagelet_games_rhc
+facebook.com###u_ps_0_b_2
+facebook.com###pagelet_canvas_nav_content
+facebook.com###u_ps_0_8_0
+facebook.com###u_ps_0_a_2
+facebook.com###u_ps_0_a_3
+facebook.com###pagelet_games_rhc > ._3-94 > div > a[href="https://www.facebook.com/games/"] > .uiSideHeader.pbs.mbm.uiHeaderTopBorder.uiHeader
+facebook.com###apps_gripper
+facebook.com###pagelet_games_rhc
 !
 ! Blacklist Facebook Feedback
-www.facebook.com###pagelet_ego_pane > .egoOrganicColumn._1snm._5qrt._y92.pagelet.ego_column:nth-of-type(1) > .ego_section
+facebook.com###pagelet_ego_pane > .egoOrganicColumn._1snm._5qrt._y92.pagelet.ego_column:nth-of-type(1) > .ego_section
 !
 ! Facebook Tracking
 ! NOTE: Hiding these elements does not block the tracking connections, this list is for reference
-||facebook.com###.muffin_tracking_pixel_start
-||facebook.com###.muffin_tracking_pixel_end
-||facebook.com###.tracking_pixel
-||facebook.com###.fbEmuTracking
-||facebook.com###.fbEmuTrackingSuccess
+||facebook.com##.muffin_tracking_pixel_start
+||facebook.com##.muffin_tracking_pixel_end
+||facebook.com##.tracking_pixel
+||facebook.com##.fbEmuTracking
+||facebook.com##.fbEmuTrackingSuccess
 !
 ! Blacklist Speedtest.net Ads
 speedtest.net###home-content > .ad-stack.test-area-wrapper > .lower-cta > .aos-btn-home > .aos-link > .btn-aos[href="/partner-with-ookla"]
