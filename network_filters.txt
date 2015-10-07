@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Network Filters
-! Updated: 30 September 2015
+! Updated: 7 October 2015
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -33,9 +33,9 @@ pch.com cdn-imageconv.pchassets.com * allow
 forum.supercell.net forum.supercell.net * allow
 @@||forum.supercell.net^$domain=forum.supercell.net
 !
-! Blacklist TouchArcade Tracking
-toucharcade.com doubleclick.net * block
-||doubleclick.net^$domain=toucharcade.com
+! Blacklist DoubleClick Tracking
+* doubleclick.net * block
+||doubleclick.net
 !
 ! Blacklist Speedtest.net Ads
 speedtest.net ads.ookla.com * block

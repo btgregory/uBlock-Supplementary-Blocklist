@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Cosmetic Filters
-! Updated: 24 September 2015
+! Updated: 7 October 2015
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -37,8 +37,11 @@ slickdeals.net#@#featureDealsAndCoupons
 !
 ! Blacklist Facebook Ads
 www.facebook.com###pagelet_ego_pane
+www.facebook.com###pagelet_ego_pane > ._1snm._5qrt._y92.pagelet.ego_column
 www.facebook.com###pagelet_ego_pane > ._1snm._5qrt._y92.pagelet.ego_column > .ego_section
-www.facebook.com###rhc_col > ._4-u8._3-96._4-u2:nth-of-type(5)
+www.facebook.com###pagelet_ego_pane > ._1snm._5qrt._y92.pagelet.ego_column > .ego_section > .ego_unit_container
+www.facebook.com###pagelet_ego_pane > ._1snm._5qrt._y92.pagelet.ego_column > .ego_section > .ego_unit_container > .ego_unit
+www.facebook.com###rhc_col > ._4-u8._3-96._4-u2:nth-of-type(*) > ._2pi9._4-u3
 !
 ! Blacklist Facebook Games Ads
 www.facebook.com###u_ps_0_b_2
@@ -52,6 +55,14 @@ www.facebook.com###pagelet_games_rhc
 !
 ! Blacklist Facebook Feedback
 www.facebook.com###pagelet_ego_pane > .egoOrganicColumn._1snm._5qrt._y92.pagelet.ego_column:nth-of-type(1) > .ego_section
+!
+! Facebook Tracking
+! NOTE: Hiding these elements does not block the tracking connections, this list is for reference
+||facebook.com###.muffin_tracking_pixel_start
+||facebook.com###.muffin_tracking_pixel_end
+||facebook.com###.tracking_pixel
+||facebook.com###.fbEmuTracking
+||facebook.com###.fbEmuTrackingSuccess
 !
 ! Blacklist Speedtest.net Ads
 speedtest.net###home-content > .ad-stack.test-area-wrapper > .lower-cta > .aos-btn-home > .aos-link > .btn-aos[href="/partner-with-ookla"]
