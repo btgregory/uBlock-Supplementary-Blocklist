@@ -35,6 +35,10 @@ slickdeals.net###nps_slider
 ! Whitelist Slickdeals Featured Deals Section (Includes Giveaways Promo)
 slickdeals.net#@#featureDealsAndCoupons
 !
+! Unbreak Facebook
+||facebook.com#@#facebook
+! NOTE: Facebook may occasionally show up blank without this rule
+!
 ! Blacklist Facebook Ads
 www.facebook.com###pagelet_ego_pane
 www.facebook.com###pagelet_ego_pane > ._1snm._5qrt._y92.pagelet.ego_column
