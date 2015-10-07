@@ -37,6 +37,7 @@ slickdeals.net#@#featureDealsAndCoupons
 !
 ! Unbreak Facebook
 facebook.com#@#facebook
+~facebook.com###facebook
 ! NOTE: Facebook may occasionally show up blank without this rule
 !
 ! Blacklist Facebook Ads
