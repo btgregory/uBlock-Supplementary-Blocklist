@@ -33,6 +33,10 @@ pch.com cdn-imageconv.pchassets.com * allow
 forum.supercell.net forum.supercell.net * allow
 @@||forum.supercell.net^$domain=forum.supercell.net
 !
+! Unbreak Complex
+complex.com ajax.googleapis.com * allow
+@@||ajax.googleapis.com^$domain=complex.com
+!
 ! Blacklist DoubleClick Tracking
 * doubleclick.net * block
 ||doubleclick.net^
