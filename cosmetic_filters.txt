@@ -40,6 +40,11 @@ slickdeals.net#@#featureDealsAndCoupons
 ! ~facebook.com###facebook
 ! NOTE: Facebook may occasionally show up blank without this rule
 !
+! Unbreak Facebook Activity Ticker
+facebook.com#@#pagelet_ticker
+facebook.com#@#u_ps_0_1_0
+facebook.com#@#u_ps_0_1_1
+!
 ! Blacklist Facebook Ads
 ||facebook.com/ads^
 ||facebook.com%2Fads^
