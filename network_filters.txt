@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Network Filters
-! Updated: 29 October 2015
+! Updated: 30 October 2015
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -58,6 +58,9 @@ fortune.com tiads.fortune.com * allow
 ! Unbreak Burlington Coat Factory
 burlingtoncoatfactory.com burlington.hs.llnwd.net * allow
 @@||burlington.hs.llnwd.net^$domain=burlingtoncoatfactory.com
+!
+! ***TRACKING BEACONS Blacklist***
+||google-analytics.com/collect$object,domain=behind-the-scene
 !
 ! ***SPAM/ADWARE/MALWARE/ETC BLACKLIST***
 ||datafilehost.com^
