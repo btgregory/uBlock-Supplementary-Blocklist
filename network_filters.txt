@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Network Filters
-! Updated: 30 October 2015
+! Updated: 31 October 2015
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -29,7 +29,8 @@ pch.com ox-d.mods.pch.com * allow
 pch.com cdn-imageconv.pchassets.com * allow
 @@||cdn-imageconv.pchassets.com^$domain=pch.com
 pch.com ajax.googleapis.com * allow
-@@||ajax.googleapis.com^$domain=pch.com
+pdapi.com ajax.googleapis.com * allow
+@@||ajax.googleapis.com^$domain=pch.com|pdapi.com
 !
 ! Unbreak Supercell Forum
 forum.supercell.net forum.supercell.net * allow
