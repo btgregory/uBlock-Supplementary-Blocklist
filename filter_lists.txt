@@ -1,0 +1,63 @@
+! FILTER LISTS
+! These are the filter lists that uBlock Supplementary Blocklist is tested with.
+! NOTE: Commented out lists are currently in testing but not recommended to be deployed at this time.
+
+! uBlock Supplementary Blocklist
+https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/dynamic_filters.txt
+https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/cosmetic_filters.txt
+https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/network_filters.txt
+
+! Blocklists
+https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/assets/ublock/filters.txt
+https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/assets/ublock/privacy.txt
+https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/filters.txt
+https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/badware.txt
+https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/privacy.txt
+https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/unbreak.txt
+https://raw.githubusercontent.com/gorhill/uMatrix/master/assets/umatrix/blacklist.txt
+https://easylist-downloads.adblockplus.org/easylist.txt
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
+https://easylist-downloads.adblockplus.org/adwarefilters.txt
+https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
+https://easylist-downloads.adblockplus.org/fanboy-social.txt
+https://www.fanboy.co.nz/enhancedstats.txt
+https://www.fanboy.co.nz/fanboy-antifacebook.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
+http://gnuzilla.gnu.org/filters/blacklist.txt
+https://raw.githubusercontent.com/Hubird-au/Adversity/master/Adversity.txt
+! https://raw.githubusercontent.com/Hubird-au/Adversity/master/Antisocial.txt (ISSUES)
+https://raw.githubusercontent.com/Hubird-au/Adversity/master/Extreme-Measures.txt
+https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
+https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt
+https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
+! https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt (EU)
+! https://raw.githubusercontent.com/liamja/Prebake/master/quiet.txt (EU)
+! https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt (EU)
+
+! Hosts Files
+http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
+http://www.malwaredomainlist.com/hostslist/hosts.txt
+http://mirror1.malwaredomains.com/files/justdomains
+http://mirror1.malwaredomains.com/files/immortal_domains.txt
+http://someonewhocares.org/hosts/hosts
+http://hosts-file.net/ad_servers.txt
+http://winhelp2002.mvps.org/hosts.txt
+http://spam404bl.com/spam404scamlist.txt
+! http://dshield.org/block.txt (FORMATTING)
+http://dshield.org/feeds/suspiciousdomains_High.txt
+https://zeustracker.abuse.ch/blocklist.php?download=baddomains
+https://zeustracker.abuse.ch/blocklist.php?download=badips
+https://zeustracker.abuse.ch/blocklist.php?download=compromised
+https://palevotracker.abuse.ch/blocklists.php?download=domainblocklist
+https://palevotracker.abuse.ch/blocklists.php?download=ipblocklist
+https://feodotracker.abuse.ch/blocklist/?download=domainblocklist
+https://feodotracker.abuse.ch/blocklist/?download=ipblocklist
+! https://sslbl.abuse.ch/blacklist/sslipblacklist.csv (FORMATTING)
+! http://www.spamhaus.org/drop/drop.txt (FORMATTING)
+! http://www.spamhaus.org/drop/edrop.txt (FORMATTING)
+! http://www.team-cymru.org/Services/Bogons/bogon-bn-agg.txt (PERFORMANCE)
+! http://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt (PERFORMANCE)
+! http://www.team-cymru.org/Services/Bogons/fullbogons-ipv6.txt (PERFORMANCE)
