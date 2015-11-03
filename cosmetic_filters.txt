@@ -91,6 +91,6 @@ facebook.com###apps_gripper
 !
 ! Blacklist Speedtest.net Ads
 speedtest.net###home-content > .ad-stack.test-area-wrapper
-! speedtest.net###home-content > .ad-stack.test-area-wrapper > .ad-vertical-right
-! speedtest.net###home-content > .ad-stack.test-area-wrapper > .lower-cta > .aos-btn-home > .aos-link > .btn-aos[href="/partner-with-ookla"]
-! speedtest.net###home-content > .ad-stack.test-area-wrapper > .ad-vertical-right > .no-shadow.ad-vertical-stacked.ad-vertical-container
+speedtest.net###home-content > .ad-stack.test-area-wrapper > .ad-vertical-right
+speedtest.net###home-content > .ad-stack.test-area-wrapper > .lower-cta > .aos-btn-home > .aos-link > .btn-aos[href="/partner-with-ookla"]
+speedtest.net###home-content > .ad-stack.test-area-wrapper > .ad-vertical-right > .no-shadow.ad-vertical-stacked.ad-vertical-container

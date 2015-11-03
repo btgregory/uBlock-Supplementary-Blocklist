@@ -6,6 +6,7 @@
 * facebook.net * block
 * google-analytics.com * block
 * googlesyndication.com * block
+* googletagmanager.com * block
 * googletagservices.com * block
 * instagram.com * block
 * linkedin.com * block
