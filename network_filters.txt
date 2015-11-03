@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Network Filters
-! Updated: 31 October 2015
+! Updated: 3 November 2015
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -48,6 +48,10 @@ complex.com ajax.googleapis.com * allow
 * mediaplex.com * block
 ||mediaplex.com^
 !
+! Blacklist Reddit Tracking
+* pixel.redditmedia.com * block
+||pixel.redditmedia.com^
+!
 ! Blacklist Speedtest.net Ads
 speedtest.net ads.ookla.com * block
 ||ads.ookla.com^$domain=speedtest.net
@@ -60,7 +64,7 @@ fortune.com tiads.fortune.com * allow
 burlingtoncoatfactory.com burlington.hs.llnwd.net * allow
 @@||burlington.hs.llnwd.net^$domain=burlingtoncoatfactory.com
 !
-! ***TRACKING BEACONS Blacklist***
+! ***TRACKING BEACONS BLACKLIST***
 ||google-analytics.com/collect$object,domain=behind-the-scene
 !
 ! ***SPAM/ADWARE/MALWARE/ETC BLACKLIST***
