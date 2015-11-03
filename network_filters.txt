@@ -40,18 +40,6 @@ forum.supercell.net forum.supercell.net * allow
 complex.com ajax.googleapis.com * allow
 @@||ajax.googleapis.com^$domain=complex.com
 !
-! Blacklist DoubleClick Tracking
-* doubleclick.net * block
-||doubleclick.net^
-!
-! Blacklist Mediaplex Tracking
-* mediaplex.com * block
-||mediaplex.com^
-!
-! Blacklist Reddit Tracking
-* pixel.redditmedia.com * block
-||pixel.redditmedia.com^
-!
 ! Blacklist Speedtest.net Ads
 speedtest.net ads.ookla.com * block
 ||ads.ookla.com^$domain=speedtest.net
@@ -66,6 +54,16 @@ burlingtoncoatfactory.com burlington.hs.llnwd.net * allow
 !
 ! ***TRACKING BEACONS BLACKLIST***
 ||google-analytics.com/collect$object,domain=behind-the-scene
+!
+! ***TRACKING BLACKLIST***
+* doubleclick.net * block
+||doubleclick.net^
+* mediaplex.com * block
+||mediaplex.com^
+* pixel.redditmedia.com * block
+||pixel.redditmedia.com^
+* silkenthreadiness.info * block
+||silkenthreadiness.info^
 !
 ! ***SPAM/ADWARE/MALWARE/ETC BLACKLIST***
 ||datafilehost.com^

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Cosmetic Filters
-! Updated: 19 October 2015
+! Updated: 3 November 2015
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -90,4 +90,7 @@ facebook.com###apps_gripper
 ! ||facebook.com##.fbEmuTrackingSuccess
 !
 ! Blacklist Speedtest.net Ads
-speedtest.net###home-content > .ad-stack.test-area-wrapper > .lower-cta > .aos-btn-home > .aos-link > .btn-aos[href="/partner-with-ookla"]
+speedtest.net###home-content > .ad-stack.test-area-wrapper
+! speedtest.net###home-content > .ad-stack.test-area-wrapper > .ad-vertical-right
+! speedtest.net###home-content > .ad-stack.test-area-wrapper > .lower-cta > .aos-btn-home > .aos-link > .btn-aos[href="/partner-with-ookla"]
+! speedtest.net###home-content > .ad-stack.test-area-wrapper > .ad-vertical-right > .no-shadow.ad-vertical-stacked.ad-vertical-container
