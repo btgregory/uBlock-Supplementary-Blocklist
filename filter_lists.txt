@@ -1,6 +1,6 @@
 ! FILTER LISTS
 ! These are the filter lists that uBlock Supplementary Blocklist is tested with.
-! NOTE: Commented out lists are currently in testing but not recommended to be deployed at this time.
+! NOTE: Commented out lists are being considered, but are not recommended to be deployed at this time.
 
 ! uBlock Supplementary Blocklist
 https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/dynamic_filters.txt
@@ -50,7 +50,7 @@ http://hosts-file.net/ad_servers.txt
 http://winhelp2002.mvps.org/hosts.txt
 http://spam404bl.com/spam404scamlist.txt
 ! http://dshield.org/block.txt (FORMATTING)
-http://dshield.org/feeds/suspiciousdomains_High.txt
+! http://dshield.org/feeds/suspiciousdomains_High.txt (FORMATTING: “Site” Non-Entry)
 https://zeustracker.abuse.ch/blocklist.php?download=baddomains
 https://zeustracker.abuse.ch/blocklist.php?download=badips
 https://zeustracker.abuse.ch/blocklist.php?download=compromised
