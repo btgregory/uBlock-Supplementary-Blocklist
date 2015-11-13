@@ -21,6 +21,7 @@ https://easylist-downloads.adblockplus.org/adwarefilters.txt
 https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
 ! https://easylist-downloads.adblockplus.org/fanboy-social.txt (SUBSET OF fanboy-annoyance.txt)
 https://easylist-downloads.adblockplus.org/fb_annoyances_full.txt
+https://easylist-downloads.adblockplus.org/message_seen_remover_for_facebook.txt
 https://www.fanboy.co.nz/fanboy-antifacebook.txt
 https://www.fanboy.co.nz/enhancedstats.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
@@ -32,6 +33,7 @@ https://raw.githubusercontent.com/Hubird-au/Adversity/master/Adversity.txt
 ! https://raw.githubusercontent.com/Hubird-au/Adversity/master/Antisocial.txt (ISSUES)
 https://raw.githubusercontent.com/Hubird-au/Adversity/master/Extreme-Measures.txt
 https://bidgewalbelp.neocities.org/filters.txt
+http://adblock.gjtech.net/?format=adblock-plus
 https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
 https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
@@ -43,13 +45,26 @@ https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 ! Hosts Files
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
 http://www.malwaredomainlist.com/hostslist/hosts.txt
+http://www.malwaredomainlist.com/hostslist/ip.txt
 http://mirror1.malwaredomains.com/files/justdomains
 http://mirror1.malwaredomains.com/files/immortal_domains.txt
 https://easylist-downloads.adblockplus.org/malwaredomains_full.txt
 http://someonewhocares.org/hosts/hosts
+! http://hosts-file.net/download/hosts.txt (PERFORMANCE/SUPERSET OF BELOW hosts-file.net LISTS)
 http://hosts-file.net/ad_servers.txt
+! http://hosts-file.net/emd.txt (OPTIONAL)
+! http://hosts-file.net/exp.txt (OPTIONAL)
+! http://hosts-file.net/fsa.txt (OPTIONAL)
+! http://hosts-file.net/grm.txt (OPTIONAL)
+! http://hosts-file.net/hfs.txt (OPTIONAL)
+! http://hosts-file.net/hjk.txt (OPTIONAL)
+! http://hosts-file.net/mmt.txt (OPTIONAL)
+! http://hosts-file.net/pha.txt (OPTIONAL)
+! http://hosts-file.net/psh.txt (OPTIONAL)
+! http://hosts-file.net/wrz.txt (OPTIONAL)
 http://winhelp2002.mvps.org/hosts.txt
 http://spam404bl.com/spam404scamlist.txt
+http://adblock.gjtech.net/?format=unix-hosts
 ! http://dshield.org/block.txt (FORMATTING)
 ! http://dshield.org/feeds/suspiciousdomains_High.txt (FORMATTING: “Site” Non-Entry)
 https://zeustracker.abuse.ch/blocklist.php?download=baddomains
