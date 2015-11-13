@@ -31,7 +31,7 @@ http://gnuzilla.gnu.org/filters/blacklist.txt
 https://raw.githubusercontent.com/Hubird-au/Adversity/master/Adversity.txt
 ! https://raw.githubusercontent.com/Hubird-au/Adversity/master/Antisocial.txt (ISSUES)
 https://raw.githubusercontent.com/Hubird-au/Adversity/master/Extreme-Measures.txt
-http://bidgewalbelp.neocities.org/filters.txt
+https://bidgewalbelp.neocities.org/filters.txt
 https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
 https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
