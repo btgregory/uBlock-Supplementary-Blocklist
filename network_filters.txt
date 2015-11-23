@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Network Filters
-! Updated: 13 November 2015
+! Updated: 23 November 2015
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -48,6 +48,10 @@ speedtest.net ads.ookla.com * block
 ! Unbreak Fortune
 fortune.com tiads.fortune.com * allow
 @@||tiads.fortune.com/ads/tgx.js^$domain=fortune.com
+!
+! Unbreak Hearthpwn
+hearthpwn.com media-hearth.cursecdn.com * allow
+@@||media-hearth.cursecdn.com^$domain=hearthpwn.com
 !
 ! Unbreak Burlington Coat Factory
 burlingtoncoatfactory.com burlington.hs.llnwd.net * allow
