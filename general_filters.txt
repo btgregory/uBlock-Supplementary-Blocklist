@@ -34,9 +34,11 @@ ads%2F
 /cleardot.
 /ClientSideMetrics
 /log?
+/log_interaction?
 /ping?
 /ping.
 /pixel/
 /pixel.
+/pixel-
 -pixel.
 ://pixel.*/pixel/of_destiny.*?
