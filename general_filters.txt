@@ -31,6 +31,7 @@ ads%2F
 .beacon?
 .beacon.
 /blank.
+/cleardot.
 /ping?
 /ping.
 /pixel/
