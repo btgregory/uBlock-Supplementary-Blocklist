@@ -47,10 +47,10 @@ facebook.com#@#u_ps_0_1_0
 facebook.com#@#u_ps_0_1_1
 !
 ! Blacklist Facebook Ads
-||facebook.com/ads^$important
-||facebook.com%2Fads^$important
-||fbexternal-*.akamaihd.net/*facebook.com%2Fads*$important
-||external-*.fbcdn.net/*facebook.com%2Fads*$important
+||facebook.com/ads^
+||facebook.com%2Fads^
+||fbexternal-*.akamaihd.net/*facebook.com%2Fads*
+||external-*.fbcdn.net/*facebook.com%2Fads*
 facebook.com###pagelet_ego_pane
 facebook.com###u_ps_*_*_*
 facebook.com###m_ps_*_*_*

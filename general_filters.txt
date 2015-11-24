@@ -10,7 +10,7 @@
 /ad-
 /ad_
 -ad-
-/ads/
+! /ads/
 _ads.
 %2Fads
 ads%2F
@@ -22,7 +22,7 @@ ads%2F
 !
 ! TRACKING/ANALYTICS
 /1x1.
-/analytics/
+! /analytics/
 /analytics.
 /beacon?
 /beacon.
@@ -37,7 +37,7 @@ ads%2F
 /log_interaction?
 /ping?
 /ping.
-/pixel/
+! /pixel/
 /pixel.
 /pixel-
 -pixel.
