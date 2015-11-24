@@ -32,6 +32,8 @@ ads%2F
 .beacon.
 /blank.
 /cleardot.
+/ClientSideMetrics
+/log?
 /ping?
 /ping.
 /pixel/
