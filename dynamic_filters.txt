@@ -24,5 +24,6 @@ facebook.com facebook.com * noop
 facebook.com facebook.net * noop
 instagram.com instagram.com * noop
 linkedin.com linkedin.com * noop
+reddit.com pixel.redditmedia.com * block
 twitter.com twitter.com * noop
 vine.co vine.co * noop
