@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Cosmetic Filters
-! Updated: 13 November 2015
+! Updated: 24 November 2015
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -47,10 +47,10 @@ facebook.com#@#u_ps_0_1_0
 facebook.com#@#u_ps_0_1_1
 !
 ! Blacklist Facebook Ads
-||facebook.com/ads^
-||facebook.com%2Fads^
-||fbexternal-*.akamaihd.net/*facebook.com%2Fads*
-||external-*.fbcdn.net/*facebook.com%2Fads*
+||facebook.com/ads^$important
+||facebook.com%2Fads^$important
+||fbexternal-*.akamaihd.net/*facebook.com%2Fads*$important
+||external-*.fbcdn.net/*facebook.com%2Fads*$important
 facebook.com###pagelet_ego_pane
 facebook.com###u_ps_*_*_*
 facebook.com###m_ps_*_*_*
