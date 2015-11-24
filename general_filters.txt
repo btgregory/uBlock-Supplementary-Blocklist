@@ -7,14 +7,22 @@
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
 !
 ! ADS
+/ad-
+/ad_
+-ad-
+_ads.
 %2Fads
 ads%2F
+/admodule-
 !
 ! SOCIAL/APPS
 -button-apple.
 -button-google.
 !
-! TRACKING
+! TRACKING/ANALYTICS
+/1x1.
+/analytics/
+/analytics.
 /beacon?
 /beacon.
 -beacon?
@@ -24,5 +32,6 @@ ads%2F
 /blank.
 /ping?
 /ping.
+/pixel/
 /pixel.
 -pixel.
