@@ -6,9 +6,23 @@
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
 !
+! ADS
+%2Fads
+ads%2F
+!
 ! SOCIAL/APPS
--button-google.
 -button-apple.
+-button-google.
 !
 ! TRACKING
+/beacon?
+/beacon.
+-beacon?
+-beacon.
+.beacon?
+.beacon.
 /blank.
+/ping?
+/ping.
+/pixel.
+-pixel.
