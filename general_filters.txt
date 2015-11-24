@@ -10,6 +10,7 @@
 /ad-
 /ad_
 -ad-
+/ads/
 _ads.
 %2Fads
 ads%2F
@@ -35,3 +36,4 @@ ads%2F
 /pixel/
 /pixel.
 -pixel.
+://pixel.*/pixel/of_destiny.*?
