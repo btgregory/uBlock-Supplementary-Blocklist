@@ -14,6 +14,7 @@
 * mediaplex.com * block
 * nextadmacfiles.com * block
 * pro-market.net * block
+* rafflecopter.com * allow
 * sourceforge.net * block
 * taboola.com * block
 * twitter.com * block
