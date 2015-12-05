@@ -42,6 +42,7 @@ https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 ! https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt (EU)
 ! https://raw.githubusercontent.com/liamja/Prebake/master/quiet.txt (EU)
 ! https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt (EU)
+! http://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/ (EU)
 
 ! Hosts Files
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
