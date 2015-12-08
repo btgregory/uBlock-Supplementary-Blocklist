@@ -14,6 +14,7 @@
 * mediaplex.com * block
 * mobcrush.com * block
 * nextadmacfiles.com * block
+* pinterest.com * block
 * pro-market.net * block
 * rafflecopter.com * allow
 * sourceforge.net * block
@@ -27,6 +28,7 @@ facebook.com facebook.net * noop
 instagram.com instagram.com * noop
 linkedin.com linkedin.com * noop
 mobcrush.com mobcrush.com * noop
+pinterest.com pinterest.com * noop
 reddit.com pixel.redditmedia.com * block
 toucharcade.com apple.com * allow
 toucharcade.com mzstatic.com * allow
