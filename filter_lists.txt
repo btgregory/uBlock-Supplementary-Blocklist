@@ -4,18 +4,18 @@
 
 ! uBlock Supplementary Blocklist
 https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/dynamic_filters.txt
-! https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/general_filters.txt
+https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/general_filters.txt
 https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/cosmetic_filters.txt
 https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/network_filters.txt
 
 ! Blocklists
-https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/assets/ublock/filters.txt
-https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/assets/ublock/privacy.txt
+! https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/assets/ublock/filters.txt (OUTDATED)
+! https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/assets/ublock/privacy.txt (OUTDATED)
 https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/filters.txt
 https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/badware.txt
 https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/privacy.txt
 https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/unbreak.txt
-https://raw.githubusercontent.com/gorhill/uMatrix/master/assets/umatrix/blacklist.txt
+! https://raw.githubusercontent.com/gorhill/uMatrix/master/assets/umatrix/blacklist.txt (OPTIONAL)
 https://easylist-downloads.adblockplus.org/easylist.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 https://easylist-downloads.adblockplus.org/adwarefilters.txt
