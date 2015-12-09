@@ -25,10 +25,6 @@ https://easylist-downloads.adblockplus.org/fb_annoyances_full.txt
 https://easylist-downloads.adblockplus.org/message_seen_remover_for_facebook.txt
 https://www.fanboy.co.nz/fanboy-antifacebook.txt
 https://www.fanboy.co.nz/enhancedstats.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 http://gnuzilla.gnu.org/filters/blacklist.txt
 https://raw.githubusercontent.com/Hubird-au/Adversity/master/Adversity.txt
 ! https://raw.githubusercontent.com/Hubird-au/Adversity/master/Antisocial.txt (ISSUES)
@@ -69,6 +65,10 @@ http://spam404bl.com/spam404scamlist.txt
 http://adblock.gjtech.net/?format=unix-hosts
 ! http://dshield.org/block.txt (FORMATTING)
 ! http://dshield.org/feeds/suspiciousdomains_High.txt (FORMATTING: “Site” Non-Entry)
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 https://zeustracker.abuse.ch/blocklist.php?download=baddomains
 https://zeustracker.abuse.ch/blocklist.php?download=badips
 https://zeustracker.abuse.ch/blocklist.php?download=compromised
