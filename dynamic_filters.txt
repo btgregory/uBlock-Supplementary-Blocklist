@@ -19,6 +19,7 @@
 * rafflecopter.com * allow
 * sourceforge.net * block
 * taboola.com * block
+* tapfiliate.com * block
 * twitter.com * block
 * vine.co * block
 amazon.com amazon.com * noop
