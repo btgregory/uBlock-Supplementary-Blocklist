@@ -80,6 +80,7 @@
 ||mediaplex.com^
 ! reddit.com pixel.redditmedia.com * block
 ||pixel.redditmedia.com^$domain=reddit.com
+||ebaystatic.com^*/s.gif
 ! * xp.apple.com * block
 ||xp.apple.com^/report/*
 ! * silkenthreadiness.info * block
