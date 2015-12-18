@@ -65,6 +65,10 @@
 ! itunes.apple.com mzstatic.com * allow
 @@||mzstatic.com^$domain=itunes.apple.com
 !
+! Unbreak eBay Selling Listings Tool
+! Generic Filter causing breakage: ?siteid=
+@@||csr.ebay.com/sell/sellertags.jsf*$domain=csr.ebay.com
+!
 ! ***TRACKING BEACONS BLACKLIST***
 ||google-analytics.com/collect$object,domain=behind-the-scene
 !
