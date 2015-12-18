@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Network Filters
-! Updated: 26 November 2015
+! Updated: 17 December 2015
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -61,6 +61,10 @@
 ! burlingtoncoatfactory.com burlington.hs.llnwd.net * allow
 @@||burlington.hs.llnwd.net^$domain=burlingtoncoatfactory.com
 !
+! Unbreak Apple iTunes/App Store Previews
+! itunes.apple.com mzstatic.com * allow
+@@||mzstatic.com^$domain=itunes.apple.com
+!
 ! ***TRACKING BEACONS BLACKLIST***
 ||google-analytics.com/collect$object,domain=behind-the-scene
 !
@@ -72,6 +76,8 @@
 ||mediaplex.com^
 ! reddit.com pixel.redditmedia.com * block
 ||pixel.redditmedia.com^$domain=reddit.com
+! * xp.apple.com * block
+||xp.apple.com^/report/*
 ! * silkenthreadiness.info * block
 ||silkenthreadiness.info^
 !
