@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Network Filters
-! Updated: 17 December 2015
+! Updated: 23 December 2015
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -56,6 +56,10 @@
 ! Unbreak TouchArcade
 ! toucharcade.com mzstatic.com * allow
 !!||mzstatic.com^$domain=toucharcade.com
+!
+! Unbreak Soundcloud
+! soundcloud.com eventgateway.soundcloud.com * allow
+@@||eventgateway.soundcloud.com^$domain=soundcloud.com
 !
 ! Unbreak Burlington Coat Factory
 ! burlingtoncoatfactory.com burlington.hs.llnwd.net * allow
