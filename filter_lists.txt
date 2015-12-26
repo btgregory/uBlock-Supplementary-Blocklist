@@ -28,6 +28,11 @@ https://easylist-downloads.adblockplus.org/message_seen_remover_for_facebook.txt
 https://www.fanboy.co.nz/fanboy-antifacebook.txt
 https://www.fanboy.co.nz/enhancedstats.txt
 http://gnuzilla.gnu.org/filters/blacklist.txt
+https://adguard.com/en/filter-rules.html?id=2 (MODIFIED easylist.txt)
+https://adguard.com/en/filter-rules.html?id=3
+https://adguard.com/en/filter-rules.html?id=4
+https://adguard.com/en/filter-rules.html?id=11 (MOBILE)
+https://adguard.com/en/filter-rules.html?id=12 (MOBILE)
 https://raw.githubusercontent.com/Hubird-au/Adversity/master/Adversity.txt
 ! https://raw.githubusercontent.com/Hubird-au/Adversity/master/Antisocial.txt (ISSUES)
 https://raw.githubusercontent.com/Hubird-au/Adversity/master/Extreme-Measures.txt
