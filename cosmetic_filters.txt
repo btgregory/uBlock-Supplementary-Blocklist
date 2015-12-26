@@ -97,3 +97,4 @@ speedtest.net###home-content > .ad-stack.test-area-wrapper > .lower-cta > .aos-b
 !
 ! Blacklist NBC Sports Live Extra Ads
 stream.nbcsports.com##.with-scoreboard-ad.scoreboard-container > .upper-ad-module
+stream.nbcsports.com###nbc-content > .main-wrapper > .live-extra-promo
