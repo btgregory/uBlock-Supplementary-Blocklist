@@ -76,7 +76,7 @@
 ! Unbreak NBC Sports Live Extra
 ! nbcsports.com geo.nbcsports.com * allow
 @@||geo.nbcsports.com^$domain=nbcsports.com
-@@||stream.nbcsports.com/*/init/event-latest/ad-init.js$domain=stream.nbcsports.com
+@@||stream.nbcsports.com/*/init/event-*/ad-init.js$domain=stream.nbcsports.com
 !
 ! ***TRACKING BEACONS BLACKLIST***
 ||google-analytics.com/collect$object,domain=behind-the-scene
