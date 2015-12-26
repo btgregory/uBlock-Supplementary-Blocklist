@@ -81,9 +81,11 @@
 ! ***TRACKING BEACONS BLACKLIST***
 ||google-analytics.com/collect$object,domain=behind-the-scene
 !
-! ***TRACKING/ANALYTICS BLACKLIST***
+! ***TRACKING/ADS/ANALYTICS BLACKLIST***
 ! * doubleclick.net * block
 ||doubleclick.net^
+! * massrel.io * block
+||massrel.io^
 ||images-amazon.com^*/ClientSideMetrics*$third-party
 ! * mediaplex.com * block
 ||mediaplex.com^
