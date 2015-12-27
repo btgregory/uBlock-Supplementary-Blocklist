@@ -3,10 +3,14 @@
 ! NOTE: Commented out lists are being considered, but are not recommended to be deployed at this time.
 
 ! uBlock Supplementary Blocklist
-https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/dynamic_filters.txt
+! Parse in “3rd-Party Filters”
 https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/general_filters.txt
 https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/cosmetic_filters.txt
 https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/network_filters.txt
+! Copy contents into “My Filters”
+https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/static_filters.txt
+! Copy contents into “My Rules”
+https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/master/dynamic_filters.txt
 
 ! Blocklists
 ! https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/assets/ublock/filters.txt (OUTDATED)
