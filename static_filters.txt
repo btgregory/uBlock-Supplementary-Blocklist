@@ -1,0 +1,16 @@
+||facebook.com/ads*$important
+||facebook.com%2Fads*$important
+||fbexternal-*.akamaihd.net/*facebook.com%2Fads*$important
+||external-*.fbcdn.net/*facebook.com%2Fads*$important
+||facebook.com/ajax/browse/null_state.php$xmlhttprequest,important
+||facebook.com/ajax/bz$xmlhttprequest,important
+||facebook.com/ajax/messaging/typ.php$xmlhttprequest,important
+||facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest,important
+||facebook.com/ajax/mercury/mark_seen.php$xmlhttprequest,important
+||facebook.com/ajax/mercury/thread_sync.php$xmlhttprequest,important
+||facebook.com/ajax/presence/update.php$xmlhttprequest,important
+||facebook.com/games/async/liveplayers/?user_ids*$xmlhttprequest,important
+||ebaystatic.com^*/s.gif$important
+||espncdn.com/combiner/c?js=*analytics*$important
+||redditmedia.com/ads/*$important
+||redditstatic.com/ad-*$important
