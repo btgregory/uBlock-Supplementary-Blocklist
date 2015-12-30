@@ -90,6 +90,10 @@ facebook.com###apps_gripper
 ! ||facebook.com##.fbEmuTracking
 ! ||facebook.com##.fbEmuTrackingSuccess
 !
+! Blacklist Google Ads
+||google.*###tads
+||google.*###rhs_block > .rhsvw.commercial-unit-desktop-rhs._oc.c
+!
 ! Blacklist Speedtest.net Ads
 speedtest.net###home-content > .ad-stack.test-area-wrapper > .ad-vertical-right > .no-shadow.ad-vertical-stacked.ad-vertical-container
 speedtest.net###home-content > .ad-stack.test-area-wrapper > .ad-vertical-left > .no-shadow.ad-vertical-tower.ad-vertical-container
