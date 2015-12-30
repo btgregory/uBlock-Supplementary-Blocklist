@@ -25,6 +25,10 @@ ads%2F
 -button-apple.
 -button-google.
 ###social-iframe
+/facebook.
+/twitter.
+/jquery-social-stream
+/jquery.social.stream
 !
 ! TRACKING/ANALYTICS
 /1x1.
