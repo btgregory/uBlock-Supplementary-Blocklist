@@ -27,6 +27,8 @@ ads%2F
 ###social-iframe
 /facebook.
 /twitter.
+##.testSocialButtons
+##.testSocialButton
 ##[href^="https://www.facebook.com/sharer/sharer.php"]
 ##[href^="https://www.facebook.com/sharer/sharer.php?u=*”]
 ##[href^="https://twitter.com/intent/tweet"]
