@@ -102,5 +102,7 @@ stream.nbcsports.com###nbc-content > .main-wrapper > .live-extra-promo
 ! Blacklist Oversized Wikipedia Donation Banner
 ||wikipedia.org###frbanner
 ||wikipedia.org###frbanner-window
+||wikipedia.org###frbanner-main
 ||wikipedia.org###B1516_122922_en6C_dsk_p1_lg_txt_min
+||wikipedia.org###B1516_122920_en6C_dsk_p2_sm_dsn_hvr
 ||wikipedia.org###centralNotice
