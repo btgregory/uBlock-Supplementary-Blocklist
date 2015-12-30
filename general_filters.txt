@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - General Filters
-! Updated: 29 December 2015
+! Updated: 30 December 2015
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -27,6 +27,14 @@ ads%2F
 ###social-iframe
 /facebook.
 /twitter.
+##[href^="https://www.facebook.com/sharer/sharer.php"]
+##[href^="https://www.facebook.com/sharer/sharer.php?u=*”]
+##[href^="https://twitter.com/intent/tweet"]
+##[href^="https://twitter.com/intent/tweet?*”]
+##[href^="https://plus.google.com/share"]
+##[href^="https://plus.google.com/share?url=*”]
+##[href^=“https://pinterest.com/pin/create/button/”]
+##[href^=“https://pinterest.com/pin/create/button/?url=*”]
 /jquery-social-stream
 /jquery.social.stream
 !
