@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Network Filters
-! Updated: 29 December 2015
+! Updated: 31 December 2015
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -77,6 +77,10 @@
 ! nbcsports.com geo.nbcsports.com * allow
 @@||geo.nbcsports.com^$domain=nbcsports.com
 @@||stream.nbcsports.com/*/init/event-*/ad-init.js$domain=stream.nbcsports.com
+!
+! Unbreak Spotify Online Player
+! play.spotify.com cloudfront.net * allow
+@@||cloudfront.net^$domain=play.spotify.com
 !
 ! Unbreak Rossignol
 @@||rossignol.com/*/onecss.php?*$domain=rossignol.com
