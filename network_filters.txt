@@ -98,6 +98,9 @@
 @@||assets.adobedtm.com/*/scripts/satellite-*.html$domain=marshallsonline.com
 @@||http://www.marshallsonline.com/tjx/js/tjx-tracking-data.js$domain=marshallsonline.com
 !
+! Blacklist TJ Maxx Tracking
+||static.tjmaxx.com/store/resources/js/metrics/*
+!
 ! ***TRACKING BEACONS BLACKLIST***
 ||google-analytics.com/collect$object,domain=behind-the-scene
 !
