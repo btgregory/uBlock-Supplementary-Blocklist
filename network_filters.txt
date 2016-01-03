@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Network Filters
-! Updated: 31 December 2015
+! Updated: 3 January 2016
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -85,6 +85,10 @@
 ! Unbreak Rossignol
 @@||rossignol.com/*/onecss.php?*$domain=rossignol.com
 ! @@||rossignol.com/*/onejs.php?*$domain=rossignol.com
+!
+! Blacklist Marshalls Social Feed
+! marshallsonline.com marshallsfacebook.com * block
+||marshallsfacebook.com^$domain=marshallsonline.com
 !
 ! ***TRACKING BEACONS BLACKLIST***
 ||google-analytics.com/collect$object,domain=behind-the-scene
