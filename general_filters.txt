@@ -67,5 +67,6 @@ ads%2F
 ://pixel.*/pixel/of_destiny.*?
 /px.
 /spacer.
+-tracking-data.
 /transparent.
 /translucent.
