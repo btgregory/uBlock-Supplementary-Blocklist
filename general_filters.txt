@@ -43,6 +43,8 @@ ads%2F
 /jquery.social.stream
 !
 ! EMAIL LIST POPOVERS
+/email-pop
+/email-popup
 ###emailLight
 !
 ! TRACKING/ANALYTICS
