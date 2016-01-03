@@ -104,7 +104,9 @@
 ! ***TRACKING/ADS/ANALYTICS BLACKLIST***
 ! * doubleclick.net * block
 ||doubleclick.net^
-||http://maps.googleapis.com/*/stats.js
+||maps.googleapis.com/*/stats.js
+||maps.googleapis.com/maps/api/js/QuotaService*
+||maps.googleapis.com/maps/api/js/AuthenticationService*
 ! * massrel.io * block
 ||massrel.io^
 ||images-amazon.com^*/ClientSideMetrics*$third-party
