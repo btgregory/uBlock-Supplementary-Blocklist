@@ -40,7 +40,8 @@ https://adguard.com/en/filter-rules.html?id=12 (MOBILE)
 https://raw.githubusercontent.com/Hubird-au/Adversity/master/Adversity.txt
 ! https://raw.githubusercontent.com/Hubird-au/Adversity/master/Antisocial.txt (ISSUES)
 https://raw.githubusercontent.com/Hubird-au/Adversity/master/Extreme-Measures.txt
-https://bidgewalbelp.neocities.org/filters.txt
+! https://bidgewalbelp.neocities.org/filters.txt (OFFLINE, USE MIRROR BELOW)
+https://raw.githubusercontent.com/btgregory/bidgewalbelp/master/bidgewalbelp.txt
 http://adblock.gjtech.net/?format=adblock-plus
 https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
 https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt
