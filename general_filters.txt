@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - General Filters
-! Updated: 3 January 2016
+! Updated: 10 January 2016
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -41,6 +41,9 @@ ads%2F
 ##[href^=“https://pinterest.com/pin/create/button/?url=*”]
 /jquery-social-stream
 /jquery.social.stream
+###olapic-wrapper
+##.olapic-wrapper
+###olapic_specific_widget
 !
 ! EMAIL LIST POPOVERS
 /email-pop
@@ -51,6 +54,7 @@ ads%2F
 /1x1.
 ! /analytics/
 /analytics.
+analytics_id=
 /beacon?
 /beacon.
 -beacon?
