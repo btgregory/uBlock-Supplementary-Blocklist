@@ -116,7 +116,7 @@
 ! * mediaplex.com * block
 ||mediaplex.com^
 ||photorankapi-*.akamaihd.net^
-||photorankstatics-*.akamaid.net^
+||photorankstatics-*.akamaihd.net^
 ! reddit.com pixel.redditmedia.com * block
 ||pixel.redditmedia.com^$domain=reddit.com
 ||ebaystatic.com^*/s.gif
