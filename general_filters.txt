@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - General Filters
-! Updated: 13 January 2016
+! Updated: 16 January 2016
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -74,7 +74,7 @@ analytics_id=
 /pixel.
 /pixel-
 -pixel.
-://pixel.*/pixel/of_destiny.*?
+://pixel.*/pixel/of_*.*?
 /px.
 /spacer.
 -tracking-data.
