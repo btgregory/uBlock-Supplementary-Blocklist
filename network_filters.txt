@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Network Filters
-! Updated: 11 January 2016
+! Updated: 10 February 2016
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -105,12 +105,16 @@
 ! Blacklist TJ Maxx Tracking
 ||static.tjmaxx.com/store/resources/js/metrics/*
 !
+! Blacklist HearThis.At Heartbeat
+||hearthis.at/heartbeat.php
+!
 ! ***TRACKING BEACONS BLACKLIST***
 ||google-analytics.com/collect$object,domain=behind-the-scene
 !
 ! ***TRACKING/ADS/ANALYTICS BLACKLIST***
 ! * doubleclick.net * block
 ||doubleclick.net^
+||maps.google.com/maps-api-*/api/js/*/stats.js
 ||maps.googleapis.com/*/stats.js
 ||maps.googleapis.com/maps/api/js/QuotaService*
 ||maps.googleapis.com/maps/api/js/AuthenticationService*
