@@ -54,6 +54,9 @@ ads%2F
 /email-popup
 ###emailLight
 !
+! COOKIE NOTICES
+###ukCookiePopup
+!
 ! TRACKING/ANALYTICS
 /1x1.
 ! /analytics/
