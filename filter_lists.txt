@@ -40,6 +40,7 @@ https://adguard.com/en/filter-rules.html?id=12 (MOBILE)
 https://raw.githubusercontent.com/Hubird-au/Adversity/master/Adversity.txt
 ! https://raw.githubusercontent.com/Hubird-au/Adversity/master/Antisocial.txt (ISSUES)
 https://raw.githubusercontent.com/Hubird-au/Adversity/master/Extreme-Measures.txt
+https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
 ! https://bidgewalbelp.neocities.org/filters.txt (OFFLINE, USE MIRROR BELOW)
 https://raw.githubusercontent.com/btgregory/bidgewalbelp/master/bidgewalbelp.txt
 http://adblock.gjtech.net/?format=adblock-plus
@@ -74,6 +75,7 @@ http://hosts-file.net/ad_servers.txt
 ! http://hosts-file.net/wrz.txt (OPTIONAL)
 http://winhelp2002.mvps.org/hosts.txt
 http://spam404bl.com/spam404scamlist.txt
+https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 http://adblock.gjtech.net/?format=unix-hosts
 ! http://dshield.org/block.txt (FORMATTING)
 ! http://dshield.org/feeds/suspiciousdomains_High.txt (FORMATTING: “Site” Non-Entry)
