@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Network Filters
-! Updated: 10 February 2016
+! Updated: 28 February 2016
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -136,4 +136,3 @@
 ! ***SPAM/ADWARE/MALWARE/ETC BLACKLIST***
 ||datafilehost.com^
 ||nextadmacfiles.com^
-||sourceforge.net^
