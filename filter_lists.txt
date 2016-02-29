@@ -74,7 +74,7 @@ http://hosts-file.net/ad_servers.txt
 ! http://hosts-file.net/psh.txt (OPTIONAL)
 ! http://hosts-file.net/wrz.txt (OPTIONAL)
 http://winhelp2002.mvps.org/hosts.txt
-http://spam404bl.com/spam404scamlist.txt
+! http://spam404bl.com/spam404scamlist.txt (OFFLINE, LIST MOVED TO URL BELOW)
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 http://adblock.gjtech.net/?format=unix-hosts
 ! http://dshield.org/block.txt (FORMATTING)
