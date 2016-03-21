@@ -125,3 +125,6 @@ stream.nbcsports.com###nbc-content > .main-wrapper > .live-extra-promo
 ! ||1001tracklists.com###leftBannerFront
 ! ||1001tracklists.com/images/labels/*_*-*-*-*.*
 ||1001tracklists.com/images/labels/*_*-*.*
+!
+! Blacklists 1001 Tracklists Anti-Adblock Popup
+||1001tracklists.com###anonymous_element_1
