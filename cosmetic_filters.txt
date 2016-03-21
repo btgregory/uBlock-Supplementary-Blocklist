@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Cosmetic Filters
-! Updated: 10 February 2016
+! Updated: 21 March 2016
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -119,3 +119,9 @@ stream.nbcsports.com###nbc-content > .main-wrapper > .live-extra-promo
 !
 ! Blacklist HearThis.At Sidebar Ads
 ||hearthis.at/_/images/partner/hear_this.jpg
+!
+! Blacklist 1001 Tracklists Ads
+! ||1001tracklists.com###rightContent
+! ||1001tracklists.com###leftBannerFront
+! ||1001tracklists.com/images/labels/*_*-*-*-*.*
+||1001tracklists.com/images/labels/*_*-*.*
