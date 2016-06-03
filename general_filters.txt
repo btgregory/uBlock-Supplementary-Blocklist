@@ -26,7 +26,8 @@ ads%2F
 ! SOCIAL/APPS
 -button-apple.
 -button-google.
-##.*exp-share-button
+##.exp-share-button
+##.exp-pdp-style-social-logo-wrapper
 ###js_share_fb
 ###js_share_gplus
 ###js_share_twitter
