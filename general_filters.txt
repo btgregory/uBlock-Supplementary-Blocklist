@@ -45,6 +45,10 @@ ads%2F
 ##.social
 ###socialFeed
 ###socialFeedWrapper
+##.SocialLinks
+##.SocialLinks-links
+##.SocialLinks-link
+##.SocialLinks-icon
 ##.share-controls-social__container
 ##[href^="https://www.facebook.com/sharer/sharer.php"]
 ##[href^="https://www.facebook.com/sharer/sharer.php?u=*”]
@@ -72,6 +76,9 @@ ads%2F
 ! COOKIE NOTICES
 ###ukCookiePopup
 ###cookieMessage
+!
+! THIRD PARTY
+##.truste-logo
 !
 ! TRACKING/ANALYTICS
 /1x1.
