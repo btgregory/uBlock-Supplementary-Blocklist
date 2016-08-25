@@ -136,4 +136,5 @@ stream.nbcsports.com###nbc-content > .main-wrapper > .live-extra-promo
 ||tempostorm*.com^/*/amazon.footer*
 !
 ! Blacklist Withings HealthMate Product Ads
-||healthmate.withings.com##.pulsePurchase
+||healthmate.withings.com###mfp > .pulsePurchase
+||healthmate.withings.com###ws*Out
