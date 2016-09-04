@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Cosmetic Filters
-! Updated: 24 August 2016
+! Updated: 30 August 2016
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -139,3 +139,6 @@ stream.nbcsports.com###nbc-content > .main-wrapper > .live-extra-promo
 ||healthmate.withings.com###mfp > .pulsePurchase
 ||healthmate.withings.com###ws*Out
 ||healthmate.withings.com###amazonReview
+!
+! Blacklist Under Armour Record Product Ads
+||record.underarmour.com##.healthbox_callout
