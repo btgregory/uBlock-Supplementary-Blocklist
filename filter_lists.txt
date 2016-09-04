@@ -42,8 +42,10 @@ https://raw.githubusercontent.com/Hubird-au/Adversity/master/Adversity.txt
 https://raw.githubusercontent.com/Hubird-au/Adversity/master/Extreme-Measures.txt
 https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
 ! https://bidgewalbelp.neocities.org/filters.txt (OFFLINE, USE MIRROR BELOW)
-https://raw.githubusercontent.com/btgregory/bidgewalbelp/master/bidgewalbelp.txt (PROJECT BACK ONLINE UNDER DIFFERENT NAME, SEE BELOW)
-https://satterly.neocities.org/filters.txt (SLIMMED DOWN BIDGEWALBELP)
+https://raw.githubusercontent.com/btgregory/Offline-Adblock-Filterlists-Mirror/master/bidgewalbelp+satterly/bidgewalbelp.txt (PROJECT BACK ONLINE UNDER DIFFERENT NAME, SEE BELOW)
+! https://satterly.neocities.org/filters.txt (SLIMMED DOWN BIDGEWALBELP, OFFLINE)
+https://raw.githubusercontent.com/btgregory/Offline-Adblock-Filterlists-Mirror/master/bidgewalbelp+satterly/satterly.txt (PROJECT MOVED, SEE BELOW)
+https://satterly.neocities.org/abp_filters.txt
 http://adblock.gjtech.net/?format=adblock-plus
 https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
 https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt
