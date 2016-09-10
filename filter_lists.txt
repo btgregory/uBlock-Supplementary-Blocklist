@@ -15,12 +15,18 @@ https://raw.githubusercontent.com/btgregory/uBlock-Supplementary-Blocklist/maste
 ! Blocklists
 ! https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/assets/ublock/filters.txt (OUTDATED)
 ! https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/assets/ublock/privacy.txt (OUTDATED)
-https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/filters.txt
-https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/badware.txt
-https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/privacy.txt
-https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/unbreak.txt
-! https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/redirect.txt (OPTIONAL)
-! https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/experimental.txt (OPTIONAL)
+! https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/filters.txt (PROJECT MOVED, SEE BELOW)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+! https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/badware.txt (PROJECT MOVED, SEE BELOW)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+! https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/privacy.txt (PROJECT MOVED, SEE BELOW)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+! https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/unbreak.txt (PROJECT MOVED, SEE BELOW)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+! https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/redirect.txt (PROJECT MOVED, SEE BELOW)
+! https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resources.txt (OPTIONAL)
+! https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/experimental.txt (PROJECT MOVED, SEE BELOW)
+! https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/experimental.txt (OPTIONAL)
 ! https://raw.githubusercontent.com/gorhill/uMatrix/master/assets/umatrix/blacklist.txt (OPTIONAL)
 https://easylist-downloads.adblockplus.org/easylist.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
