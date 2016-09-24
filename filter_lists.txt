@@ -98,7 +98,11 @@ https://zeustracker.abuse.ch/blocklist.php?download=compromised
 https://palevotracker.abuse.ch/blocklists.php?download=domainblocklist
 https://palevotracker.abuse.ch/blocklists.php?download=ipblocklist
 https://feodotracker.abuse.ch/blocklist/?download=domainblocklist
+https://feodotracker.abuse.ch/blocklist/?download=badips
 https://feodotracker.abuse.ch/blocklist/?download=ipblocklist
+https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt
+https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt
 ! https://sslbl.abuse.ch/blacklist/sslipblacklist.csv (FORMATTING)
 ! http://www.spamhaus.org/drop/drop.txt (FORMATTING)
 ! http://www.spamhaus.org/drop/edrop.txt (FORMATTING)
