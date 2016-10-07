@@ -9,7 +9,7 @@
 ! ANTI-ADBLOCK
 ###abAlert
 ###js-abContainerMain
-##a[href="/ad-free"]
+##a[href=“*/ad-free"]
 !
 ! ADS
 /ad-
