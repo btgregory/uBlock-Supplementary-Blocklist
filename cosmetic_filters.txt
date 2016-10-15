@@ -148,3 +148,4 @@ stream.nbcsports.com###nbc-content > .main-wrapper > .live-extra-promo
 !
 ! Blacklist OpenGAPPS Ads
 ||opengapps.org###extrabox
+||opengapps.org/images/se.*.*
