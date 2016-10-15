@@ -149,3 +149,11 @@ stream.nbcsports.com###nbc-content > .main-wrapper > .live-extra-promo
 ! Blacklist OpenGAPPS Ads
 ||opengapps.org###extrabox
 ||opengapps.org/images/se.*.*
+!
+! Blacklist XDA Ads/Sponsors
+||forum.xda-developers.com##a[href="http://forum.xda-developers.com/ad-free"]
+||forum.xda-developers.com##a[href^="https://www.leaseweb.com/"]
+||forum.xda-developers.com##.gift-post[href^="/ad-free/"]
+||xda-cdn.com^/honor-hub/images/win-honor-*.*
+||xda-developers.com##.no-button.generic-loader.e-widget[href="https://gleam.io/fn0Rq/win-a-moto-g4-plus"]
+||forum.xda-developers.com##.deviceforum-swappa-buttons

@@ -9,8 +9,9 @@
 ! ANTI-ADBLOCK
 ###abAlert
 ###js-abContainerMain
-##.a[href=“*/ad-free"]
-##.gift-post[href=“*/ad-free/"]
+##a[href="/ad-free"]
+##.a[href=“/ad-free"]
+##.gift-post[href=“/ad-free/"]
 ###donatebox
 ##.donateButton
 !
