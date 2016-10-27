@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !
 ! Title: uBlock Supplementary Blocklist - Network Filters
-! Updated: 11 September 2016
+! Updated: 27 October 2016
 ! Expires: 5 days
 ! License: http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 ! Homepage:  https://github.com/btgregory/uBlock-Supplementary-Blocklist
@@ -114,6 +114,9 @@
 ! Blacklist Tempo Storm AdSense
 ||tempostorm*.com^/*/asense*
 ||tempostorm*.com^/*/adx*
+!
+! Unbreak Apple
+@@||apple.com^/metrics/*$domain=apple.com
 !
 ! ***TRACKING BEACONS BLACKLIST***
 ||google-analytics.com/collect$object,domain=behind-the-scene
