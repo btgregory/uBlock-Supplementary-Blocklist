@@ -59,6 +59,7 @@ https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trac
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
+https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt
 ! https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt (EU)
 ! https://raw.githubusercontent.com/liamja/Prebake/master/quiet.txt (EU)
 ! https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt (EU)
