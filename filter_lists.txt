@@ -27,7 +27,8 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.tx
 ! https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resources.txt (OPTIONAL)
 ! https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/experimental.txt (PROJECT MOVED, SEE BELOW)
 ! https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/experimental.txt (OPTIONAL)
-! https://raw.githubusercontent.com/gorhill/uMatrix/master/assets/umatrix/blacklist.txt (OPTIONAL)
+! https://raw.githubusercontent.com/gorhill/uMatrix/master/assets/umatrix/blacklist.txt (OFFLINE)
+! https://raw.githubusercontent.com/btgregory/Offline-Adblock-Filterlists-Mirror/master/uAssets/uMatrix_Blacklist.txt (OPTIONAL)
 https://easylist-downloads.adblockplus.org/easylist.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 https://easylist-downloads.adblockplus.org/adwarefilters.txt
@@ -53,7 +54,8 @@ https://raw.githubusercontent.com/btgregory/Offline-Adblock-Filterlists-Mirror/m
 ! https://satterly.neocities.org/filters.txt (SLIMMED DOWN BIDGEWALBELP, OFFLINE)
 https://raw.githubusercontent.com/btgregory/Offline-Adblock-Filterlists-Mirror/master/bidgewalbelp+satterly/satterly.txt (PROJECT MOVED, SEE BELOW)
 https://satterly.neocities.org/abp_filters.txt
-http://adblock.gjtech.net/?format=adblock-plus
+! http://adblock.gjtech.net/?format=adblock-plus (OFFLINE)
+https://raw.githubusercontent.com/btgregory/Offline-Adblock-Filterlists-Mirror/master/gjtech/frightener+facekill.txt
 https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
 https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
@@ -64,6 +66,16 @@ https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt
 ! https://raw.githubusercontent.com/liamja/Prebake/master/quiet.txt (EU)
 ! https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt (EU)
 ! http://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/ (EU)
+https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser
+https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser.txt
+https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin-ublock.txt
+https://adzhosts.fr/hosts/AdZGuardFilter.txt
+! https://adblock.mahakala.is (OPTIONAL)
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://adaway.org/hosts.txt
 
 ! Hosts Files
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
@@ -88,7 +100,8 @@ http://hosts-file.net/ad_servers.txt
 http://winhelp2002.mvps.org/hosts.txt
 ! http://spam404bl.com/spam404scamlist.txt (OFFLINE, LIST MOVED TO URL BELOW)
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
-http://adblock.gjtech.net/?format=unix-hosts
+! http://adblock.gjtech.net/?format=unix-hosts (OFFLINE)
+https://raw.githubusercontent.com/btgregory/Offline-Adblock-Filterlists-Mirror/master/gjtech/hosts.txt
 ! http://dshield.org/block.txt (FORMATTING)
 ! http://dshield.org/feeds/suspiciousdomains_High.txt (FORMATTING: “Site” Non-Entry)
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
@@ -98,8 +111,10 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 https://zeustracker.abuse.ch/blocklist.php?download=baddomains
 https://zeustracker.abuse.ch/blocklist.php?download=badips
 https://zeustracker.abuse.ch/blocklist.php?download=compromised
-https://palevotracker.abuse.ch/blocklists.php?download=domainblocklist
-https://palevotracker.abuse.ch/blocklists.php?download=ipblocklist
+! https://palevotracker.abuse.ch/blocklists.php?download=domainblocklist (OFFLINE)
+! https://palevotracker.abuse.ch/blocklists.php?download=ipblocklist (OFFLINE)
+https://raw.githubusercontent.com/btgregory/Offline-Adblock-Filterlists-Mirror/master/abuse.ch/palevotracker_domainblocklist.txt
+https://raw.githubusercontent.com/btgregory/Offline-Adblock-Filterlists-Mirror/master/abuse.ch/palevotracker_ipblocklist.txt
 https://feodotracker.abuse.ch/blocklist/?download=domainblocklist
 https://feodotracker.abuse.ch/blocklist/?download=badips
 https://feodotracker.abuse.ch/blocklist/?download=ipblocklist
