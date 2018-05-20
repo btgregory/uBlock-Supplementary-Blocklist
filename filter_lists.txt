@@ -66,11 +66,16 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://adaway.org/hosts.txt
 ! https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt (OUTDATED)
 ! https://xuhaiyang1234.gitlab.io/AAK-Cont/dist/aak-cont-list-ubo.txt (OUTDATED)
+! https://gitlab.com/xuhaiyang1234/AAK-Cont/raw/master/FINAL_BUILD/aak-cont-list-ubo.txt (OUTDATED)
+https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoDefender/master/uBlockProtectorList.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoAnnoyance.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoWhitelist.txt
-https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt
+https://jspenguin.com/NanoAdblocker/AssetsMirror/NanoDefender.txt
+! https://jspenguin.com/NanoAdblocker/AssetsMirror/NanoAnnoyance.txt
+https://jspenguin.com/NanoAdblocker/AssetsMirror/NanoBase.txt
+https://jspenguin.com/NanoAdblocker/AssetsMirror/NanoWhitelist.txt
 
 ! Hosts Files
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
