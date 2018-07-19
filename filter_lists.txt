@@ -17,6 +17,8 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.tx
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
 ! https://raw.githubusercontent.com/btgregory/Offline-Adblock-Filterlists-Mirror/master/uAssets/uMatrix_Blacklist.txt (OPTIONAL)
 https://easylist-downloads.adblockplus.org/easylist.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
@@ -33,6 +35,7 @@ https://adguard.com/en/filter-rules.html?id=3
 https://adguard.com/en/filter-rules.html?id=4
 https://adguard.com/en/filter-rules.html?id=11 (MOBILE)
 https://adguard.com/en/filter-rules.html?id=12 (MOBILE)
+https://adguard.com/en/filter-rules.html?id=14
 https://raw.githubusercontent.com/Hubird-au/Adversity/master/Adversity.txt
 ! https://raw.githubusercontent.com/Hubird-au/Adversity/master/Antisocial.txt (ISSUES)
 https://raw.githubusercontent.com/Hubird-au/Adversity/master/Extreme-Measures.txt
@@ -68,7 +71,8 @@ https://adaway.org/hosts.txt
 ! https://xuhaiyang1234.gitlab.io/AAK-Cont/dist/aak-cont-list-ubo.txt (OUTDATED)
 ! https://gitlab.com/xuhaiyang1234/AAK-Cont/raw/master/FINAL_BUILD/aak-cont-list-ubo.txt (OUTDATED)
 https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt
-https://raw.githubusercontent.com/NanoAdblocker/NanoDefender/master/uBlockProtectorList.txt
+! https://raw.githubusercontent.com/NanoAdblocker/NanoDefender/master/uBlockProtectorList.txt
+https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoAnnoyance.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoWhitelist.txt
@@ -76,6 +80,7 @@ https://jspenguin.com/NanoAdblocker/AssetsMirror/NanoDefender.txt
 ! https://jspenguin.com/NanoAdblocker/AssetsMirror/NanoAnnoyance.txt
 https://jspenguin.com/NanoAdblocker/AssetsMirror/NanoBase.txt
 https://jspenguin.com/NanoAdblocker/AssetsMirror/NanoWhitelist.txt
+https://ssl.bblck.me/blacklists/ublock-origin.txt
 
 ! Hosts Files
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
@@ -93,6 +98,7 @@ https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/btgregory/Offline-Adblock-Filterlists-Mirror/master/gjtech/hosts.txt
 ! http://dshield.org/block.txt (FORMATTING)
 ! http://dshield.org/feeds/suspiciousdomains_High.txt (FORMATTING: “Site” Non-Entry)
+http://sysctl.org/cameleon/hosts
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
